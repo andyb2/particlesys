@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/particlesys/static/css/main.5ccd9616.css",
+    "main.js": "/particlesys/static/js/main.d1e8a908.js",
+    "index.html": "/particlesys/index.html",
+    "main.5ccd9616.css.map": "/particlesys/static/css/main.5ccd9616.css.map",
+    "main.d1e8a908.js.map": "/particlesys/static/js/main.d1e8a908.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ccd9616.css",
+    "static/js/main.d1e8a908.js"
+  ]
+}
