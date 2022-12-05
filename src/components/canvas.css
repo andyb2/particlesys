@@ -1,0 +1,27 @@
+.accelerator {
+    position: absolute;
+    display: flex;
+    gap: 2px;
+    padding: 1rem;
+    /* opacity: 0; */
+}
+
+.wind {
+    display: flex;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding-right: 5px;
+    color: rgb(189, 189, 189);
+}
+
+.box {
+    border: 1px solid rgb(219, 219, 219);
+    border-radius: 5px;
+    height: 20px;
+    width: 30px;
+}
+
+.filled-box {
+    background-color: rgb(167, 167, 167);
+}
